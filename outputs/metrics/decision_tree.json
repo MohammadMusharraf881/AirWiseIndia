@@ -1,0 +1,9 @@
+{
+    "model": "Decision Tree",
+    "training_records": 19902,
+    "testing_records": 4948,
+    "accuracy": 0.7732417138237672,
+    "weighted_f1": 0.771935599089941,
+    "macro_f1": 0.738090209931615,
+    "training_seconds": 6.377425193786621
+}

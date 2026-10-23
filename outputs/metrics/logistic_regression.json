@@ -1,0 +1,9 @@
+{
+    "model": "Logistic Regression",
+    "training_records": 19902,
+    "testing_records": 4948,
+    "accuracy": 0.6891673403395311,
+    "weighted_f1": 0.6502290578494596,
+    "macro_f1": 0.5195793655777659,
+    "training_seconds": 8.369913578033447
+}

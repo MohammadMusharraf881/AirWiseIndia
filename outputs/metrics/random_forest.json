@@ -1,0 +1,9 @@
+{
+    "model": "Random Forest",
+    "training_records": 19902,
+    "testing_records": 4948,
+    "accuracy": 0.795877122069523,
+    "weighted_f1": 0.7937204417160221,
+    "macro_f1": 0.7613414974577717,
+    "training_seconds": 26.82890248298645
+}

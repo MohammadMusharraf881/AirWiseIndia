@@ -1,0 +1,20 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+
+# Spark temporary files
+spark-warehouse/
+metastore_db/
+derby.log
+*.log
+
+# Dataset files
+data/raw/
+data/processed/
+
+# Trained model artifacts
+outputs/models/
+
+# Keep analytical results and charts in GitHub

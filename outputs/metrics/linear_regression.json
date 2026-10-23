@@ -1,0 +1,9 @@
+{
+    "model": "Linear Regression",
+    "training_records": 19902,
+    "testing_records": 4948,
+    "rmse": 53.158822886564636,
+    "mae": 29.807524104375904,
+    "r2": 0.8447908649376435,
+    "training_seconds": 4.310613393783569
+}
